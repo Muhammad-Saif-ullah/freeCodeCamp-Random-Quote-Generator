@@ -40,4 +40,4 @@ The freeCodeCamp test suite CDN link is already added in the index.html file. Yo
 At this time, I'm not accepting contributions. Thank you for your interest.
 
 ## License
-See the LICENSE file for details.
+This project is licensed under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and distribute the code without any restrictions.
